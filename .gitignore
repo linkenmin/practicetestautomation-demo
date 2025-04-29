@@ -1,0 +1,35 @@
+# Build artifacts
+/bin/
+/build/
+/out/
+/target/
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS/system junk
+.DS_Store
+Thumbs.db
+
+# Logs
+/logs/
+/*.log
+
+# Maven
+/dependency-reduced-pom.xml
+
+# Reports
+/test-output/
+/surefire-reports/
+/cucumber-reports/
+/report/
+
+# Swap/temp files
+*.swp
+*~
+
+# Shell scripts
+*.sh
